@@ -1,0 +1,15 @@
+/home/crissilvafr/PracticaDecorator/bin/Debug/net6.0/PracticaDecorator
+/home/crissilvafr/PracticaDecorator/bin/Debug/net6.0/PracticaDecorator.deps.json
+/home/crissilvafr/PracticaDecorator/bin/Debug/net6.0/PracticaDecorator.runtimeconfig.json
+/home/crissilvafr/PracticaDecorator/bin/Debug/net6.0/PracticaDecorator.dll
+/home/crissilvafr/PracticaDecorator/bin/Debug/net6.0/PracticaDecorator.pdb
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.csproj.AssemblyReference.cache
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.GeneratedMSBuildEditorConfig.editorconfig
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.AssemblyInfoInputs.cache
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.AssemblyInfo.cs
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.csproj.CoreCompileInputs.cache
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.dll
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/refint/PracticaDecorator.dll
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.pdb
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/PracticaDecorator.genruntimeconfig.cache
+/home/crissilvafr/PracticaDecorator/obj/Debug/net6.0/ref/PracticaDecorator.dll
